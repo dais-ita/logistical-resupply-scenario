@@ -1,0 +1,121 @@
+Route Option,Distance,Time of day,Delivery Vehicles,Escort Vehicles,ISR UAVs,Value of Supplies,Urgency of Supplies,Weather,Drones able to fly,% chance of IEDs,% chance to encounter enemy forces,Expected Enemy Capability,Threat to Delivery Vehicle,Threat to Escort Vehicle,Threat to ISR UAVs,Road Quality,Route Acceptability (current hour)
+1,3 hours,00:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Cloud,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+1,3 hours,01:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+1,3 hours,02:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Cloud,No,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Rejected
+1,3 hours,03:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Rain,No,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Rejected
+1,3 hours,04:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Rain,No,10,15,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Rejected
+1,3 hours,05:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Rain,No,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Rejected
+1,3 hours,06:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+1,3 hours,07:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+1,3 hours,08:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Rain,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+1,3 hours,09:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,20,"Equipped with low quality assault rifles, low quality rocket propelled grenades, low training levels",Low - Medium,Low - Medium,Low,Medium,Rejected
+1,3 hours,10:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Rain,Yes,10,15,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+1,3 hours,11:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+1,3 hours,12:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+1,3 hours,13:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Sunny,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+1,3 hours,14:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Sunny,Yes,10,15,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+1,3 hours,15:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Cloud,Yes,10,15,"Equipped with low quality assault rifles, grenades, low training levels",Low - Medium,Low,Low,Medium,Rejected
+1,3 hours,16:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Cloud,Yes,10,15,"Equipped with low quality assault rifles, grenades, low training levels",Low - Medium,Low,Low,Medium,Rejected
+1,3 hours,17:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+1,3 hours,18:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Rain,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+1,3 hours,19:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+1,3 hours,20:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+1,3 hours,21:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,25,"Equipped with low quality assault rifles, low quality rocket propelled grenades, low training levels",Low - Medium,Low - Medium,Low,Medium,Rejected
+1,3 hours,22:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+1,3 hours,23:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+2,4 hours,00:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Cloud,Yes,15,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Acceptable
+2,4 hours,01:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,15,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Acceptable
+2,4 hours,02:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Cloud,No,15,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Rejected
+2,4 hours,03:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Rain,No,15,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Rejected
+2,4 hours,04:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Rain,No,15,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Rejected
+2,4 hours,05:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Rain,No,15,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Rejected
+2,4 hours,06:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,15,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Acceptable
+2,4 hours,07:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,15,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Acceptable
+2,4 hours,08:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Rain,Yes,15,15,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Acceptable
+2,4 hours,09:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,15,40,"Equipped with low quality assault rifles, low quality rocket propelled grenades, low training levels",Low - Medium,Low - Medium,Low,Low,Rejected
+2,4 hours,10:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Rain,Yes,15,15,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Acceptable
+2,4 hours,11:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,15,20,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Acceptable
+2,4 hours,12:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,15,20,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Acceptable
+2,4 hours,13:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Sunny,Yes,15,15,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Acceptable
+2,4 hours,14:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Sunny,Yes,15,20,"Equipped with low quality assault rifles, grenades, low training levels",Low - Medium,Low,Low,Low,Rejected
+2,4 hours,15:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Cloud,Yes,15,20,"Equipped with low quality assault rifles, grenades, low training levels",Low - Medium,Low,Low,Low,Rejected
+2,4 hours,16:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Cloud,Yes,15,25,"Equipped with low quality assault rifles, grenades, low training levels",Low - Medium,Low,Low,Low,Rejected
+2,4 hours,17:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,15,15,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Acceptable
+2,4 hours,18:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Rain,Yes,15,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Acceptable
+2,4 hours,19:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,15,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Acceptable
+2,4 hours,20:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,15,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Acceptable
+2,4 hours,21:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,15,35,"Equipped with low quality assault rifles, low quality rocket propelled grenades, low training levels",Low - Medium,Low - Medium,Low,Low,Rejected
+2,4 hours,22:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,15,25,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Rejected
+2,4 hours,23:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,15,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Acceptable
+3,2 hours,00:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Cloud,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+3,2 hours,01:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+3,2 hours,02:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Cloud,No,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Rejected
+3,2 hours,03:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Rain,No,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Rejected
+3,2 hours,04:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Rain,No,10,20,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Rejected
+3,2 hours,05:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Rain,No,10,15,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Rejected
+3,2 hours,06:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,10,25,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Rejected
+3,2 hours,07:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,10,15,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+3,2 hours,08:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Rain,Yes,10,15,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+3,2 hours,09:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,30,"Equipped with low quality assault rifles, low quality rocket propelled grenades, low training levels",Low - Medium,Low - Medium,Low,Medium,Rejected
+3,2 hours,10:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Rain,Yes,10,20,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+3,2 hours,11:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+3,2 hours,12:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,15,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+3,2 hours,13:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Sunny,Yes,10,15,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+3,2 hours,14:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Sunny,Yes,10,25,"Equipped with low quality assault rifles, grenades, low training levels",Low - Medium,Low,Low,Medium,Rejected
+3,2 hours,15:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Cloud,Yes,10,25,"Equipped with low quality assault rifles, grenades, low training levels",Low - Medium,Low,Low,Medium,Rejected
+3,2 hours,16:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Cloud,Yes,10,25,"Equipped with low quality assault rifles, grenades, low training levels",Low - Medium,Low,Low,Medium,Rejected
+3,2 hours,17:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,25,"Equipped with low quality assault rifles, grenades, low training levels",Low - Medium,Low,Low,Medium,Rejected
+3,2 hours,18:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Rain,Yes,10,25,"Equipped with low quality assault rifles, grenades, low training levels",Low - Medium,Low,Low,Medium,Rejected
+3,2 hours,19:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+3,2 hours,20:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+3,2 hours,21:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,35,"Equipped with low quality assault rifles, low quality rocket propelled grenades, low training levels",Low - Medium,Low - Medium,Low,Medium,Rejected
+3,2 hours,22:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,15,"Equipped with low quality assault rifles, grenades, low training levels",Low - Medium,Low,Low,Medium,Rejected
+3,2 hours,23:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,5,"Equipped with low quality assault rifles, grenades, low training levels",Low - Medium,Low,Low,Medium,Acceptable
+4,3 hours,00:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Cloud,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+4,3 hours,01:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+4,3 hours,02:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Cloud,No,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Rejected
+4,3 hours,03:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Rain,No,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Rejected
+4,3 hours,04:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Rain,No,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Rejected
+4,3 hours,05:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Rain,No,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Low,Rejected
+4,3 hours,06:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+4,3 hours,07:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+4,3 hours,08:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Rain,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+4,3 hours,09:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,30,"Equipped with low quality assault rifles, low quality rocket propelled grenades, low training levels",Low - Medium,Low - Medium,Low,Medium,Rejected
+4,3 hours,10:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Rain,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+4,3 hours,11:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,15,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+4,3 hours,12:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,15,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+4,3 hours,13:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Sunny,Yes,10,15,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+4,3 hours,14:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Sunny,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+4,3 hours,15:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Cloud,Yes,10,10,"Equipped with low quality assault rifles, grenades, low training levels",Low - Medium,Low,Low,Medium,Rejected
+4,3 hours,16:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Cloud,Yes,10,5,"Equipped with low quality assault rifles, grenades, low training levels",Low - Medium,Low,Low,Medium,Acceptable
+4,3 hours,17:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+4,3 hours,18:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Rain,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+4,3 hours,19:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+4,3 hours,20:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+4,3 hours,21:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,25,"Equipped with low quality assault rifles, low quality rocket propelled grenades, low training levels",Low - Medium,Low - Medium,Low,Medium,Rejected
+4,3 hours,22:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,25,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Rejected
+4,3 hours,23:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Acceptable
+4,5 hours,00:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Cloud,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,High,Acceptable
+4,5 hours,01:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,High,Acceptable
+4,5 hours,02:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Cloud,No,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,High,Rejected
+4,5 hours,03:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Rain,No,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Rejected
+4,5 hours,04:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Rain,No,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Rejected
+4,5 hours,05:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Heavy Rain,No,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,Medium,Rejected
+4,5 hours,06:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,High,Acceptable
+4,5 hours,07:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,High,Acceptable
+4,5 hours,08:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Rain,Yes,10,15,"Equipped with low quality assault rifles, grenades, low training levels",Low - Medium,Low,Low,High,Rejected
+4,5 hours,09:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,25,"Equipped with low quality assault rifles, low quality rocket propelled grenades, low training levels",Low - Medium,Low - Medium,Low,High,Rejected
+4,5 hours,10:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Rain,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,High,Acceptable
+4,5 hours,11:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,High,Acceptable
+4,5 hours,12:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,High,Acceptable
+4,5 hours,13:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Sunny,Yes,10,10,"Equipped with low quality assault rifles, grenades, low training levels",Low - Medium,Low,Low,High,Rejected
+4,5 hours,14:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Sunny,Yes,10,15,"Equipped with low quality assault rifles, grenades, low training levels",Low - Medium,Low,Low,High,Rejected
+4,5 hours,15:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Cloud,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,High,Acceptable
+4,5 hours,16:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Cloud,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,High,Acceptable
+4,5 hours,17:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,5,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,High,Acceptable
+4,5 hours,18:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Light Rain,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,High,Acceptable
+4,5 hours,19:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,High,Acceptable
+4,5 hours,20:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Rain,Yes,10,10,"Equipped with low quality assault rifles, low training levels",Low,Low,Low,High,Acceptable
+4,5 hours,21:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,25,"Equipped with low quality assault rifles, low quality rocket propelled grenades, low training levels",Low - Medium,Low - Medium,Low,High,Rejected
+4,5 hours,22:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,5,"Equipped with low quality assault rifles, low quality rocket propelled grenades, low training levels",Low - Medium,Low - Medium,Low,High,Acceptable
+4,5 hours,23:00,2 Vehicles,8 Vehicles,3 Vehicles,Medium,Low,Medium Cloud,Yes,10,5,"Equipped with low quality assault rifles, low quality rocket propelled grenades, low training levels",Low - Medium,Low - Medium,Low,High,Acceptable
